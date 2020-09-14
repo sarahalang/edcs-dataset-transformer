@@ -1,0 +1,21 @@
+Publikation: ILLPRON 00376 = Leber 00322 = Gerstl 00269 = AEA 2001/02, 00089 = AEA 2011/12, +00008 ①
+Datierung: 1 bis 300         EDCS-ID: EDCS-14400144 
+Provinz: Noricum         Ort: Puch bei Hallein
+Cautus R[3] / Sax(ano) / Hoponinus / Pusinnus
+Inschriftengattung / Personenstatus: tituli sacri;  tria nomina;  viri
+Material: lapis
+
+Publikation: CIL 08, 23999 = ILTun 00753 = AE 1908, 00065 = AE 2015, +01746          EDCS-ID: EDCS-24501133
+Provinz: Africa proconsularis         Ort: Djebel Oust / Gebel Oust / Cheylus / Shaylus
+Pro sal(ute) / L(uciorum) [n]n(ostrorum) / Mer(curio) Sil(vano) vot(um) / sol(vit) Ian(uarius) ser(vus)
+Inschriftengattung / Personenstatus: nomen singulare;  servi/servae;  tituli sacri;  viri
+Kommentar [locum inventionis correxit: Hamden Ben Romdhane]
+
+Publikation: CIL 08, 23022 = LBIRNA 00236 = AE 1893, 00066          EDCS-ID: EDCS-24300334
+Provinz: Africa proconsularis         Ort: Zembra / Zambrah, Jazirat / Ulisippira
+[Pro salut]e Imperatorum Caesarum Aug(ustorum) M(arci) Aurel{l}i Antonini / [Ar]meniaci lib(erorum)que eius L(uci) Aurel{l}i Veri Armeniaci plebs fundi / [3]itani maceriam dom(inae) Cerer(is) s(ua) p(ecunia) f(ecit) idemq(ue) d(e)d(icavit) mag(istro) P(ublio) Statilio / Silvano <q=O>ui <e=F>t [3]ma
+
+Publikation: CIL 13, 07697 = Matijevic 00011          EDCS-ID: EDCS-11001825
+Provinz: Germania superior         Ort: Brohl
+] Her[c]u[li Sax(ano?)] / vexillari(i) / [l(egionis) I M(inerviae)] P(iae) F(idelis) l(egionis) VI Vic(tricis) P(iae) F(idelis) / l(egionis) X G(eminae) P(iae) F(idelis) et al(arum) coh(ortium) / cl(assis) q(uae) s(ub) Q(uinto) Acut(io) / [s]u(b) [cu(r)a] M(arci) Iu[l]i / Cossuti |(centurionis) l(egionis) VI / Vic(tricis) P(iae) [F(idelis)]
+Inschriftengattung / Personenstatus: milites;  ordo senatorius;  tituli sacri;  tria nomina;  viri
